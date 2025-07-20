@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>HTML Paper</title>
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+
+	<style>
+		* {
+			box-sizing: border-box;
+		}
+		p, body {
+			margin: 0;
+			font-family: "Roboto Mono", monospace;
+		}
+
+		.page {
+			width: 100vw;
+			height: 100vh;
+
+			padding-left: 0.5in;
+			padding-top: 0.25in;
+			padding-bottom: 0.25in;
+
+			display: flex;
+			flex-direction: column;
+			justify-content: space-between;
+		}
+
+		.rulers {
+			flex: 1;
+			display: flex;
+		}
+
+		.ruler {
+			border-left: 1px dotted #d3d3d3;
+			width: 4ch;
+		}
+	</style>
+</head>
+<body>
+	<div class="page">
+		<div>
+			<p>&lt;!DOCTYPE html&gt;</p>
+			<p>&lt;html&gt;</p>
+		</div>
+		<div class="rulers">
+			<div class="ruler"></div>
+			<div class="ruler"></div>
+			<div class="ruler"></div>
+			<div class="ruler"></div>
+			<div class="ruler"></div>
+		</div>
+		<p>&lt;/html&gt;</p>
+	</div>
+</body>
+</html>
