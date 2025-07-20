@@ -8,4 +8,4 @@ inspired by [omar rizwan](https://twitter.com/rsnous/status/1946220957770637633)
 <br>
 <br>
 
-<img src="https://github.com/user-attachments/assets/e5922cd8-eb83-4bdc-b08a-905c78b43a98" width="400">
+<img src="https://github.com/user-attachments/assets/9ed5e71f-60a1-4059-aa98-eb04950a2141" width="500">
