@@ -9,3 +9,9 @@ inspired by [omar rizwan](https://twitter.com/rsnous/status/1946220957770637633)
 <br>
 
 <img src="https://github.com/user-attachments/assets/9ed5e71f-60a1-4059-aa98-eb04950a2141" width="500">
+<br>
+<br>
+
+html paper may be folded, cut, taped, glued, ripped up, blown in the wind:
+
+<img src="https://github.com/user-attachments/assets/26402e5f-c032-402c-ac8c-2afd8aa4a752" width="500">
